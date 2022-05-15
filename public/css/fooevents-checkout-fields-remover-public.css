@@ -1,0 +1,3 @@
+.woocommerce-additional-fields [class^="fooevents-"] {
+    display: none;
+}
